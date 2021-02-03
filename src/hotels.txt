@@ -1,51 +1,59 @@
-namehotel
-Crowne Plaza Seattle - Downtown
-Warwick Seattle
-MarQueen Hotel
-Hotel Seattle
-Ace Hotel
-Inn at Queen Anne
-Hilton Seattle
 Kimpton Hotel Monaco Seattle
+Warwick Seattle
+Hotel Seattle
 Inn at the Market
-Renaissance Seattle Hotel
-Quality Inn & Suites Seattle
+Ace Hotel
+Crowne Plaza Seattle - Downtown
+Inn at Queen Anne
+MarQueen Hotel
 Mayflower Park Hotel
+Moore Hotel
 Executive Hotel Pacific Seattle
+Renaissance Seattle Hotel
+Hilton Seattle
+Quality Inn & Suites Seattle
 Sheraton Grand Seattle
-Hotel Sorrento
-Travelodge by Wyndham Seattle by the Space Needle
+Seattle Hotelsand Places to Stay
 Hotel Andra
+The Edgewater, A Noble House Hotel
+Hotel Sorrento
 The Westin Seattle
+Travelodge by Wyndham Seattle by the Space Needle
+Travelodge by Wyndham Seattle University
+University Inn - A Staypineapple Hotel
+Seattle Pacific Hotel
+Kimpton Hotel Vintage Seattle
 W Seattle
+Hotel Max
 Hotel Theodore
 Doubletree by Hilton Seattle Airport
-Hotel Max
-Kimpton Hotel Vintage Seattle
-Travelodge by Wyndham Seattle University
 Embassy Suites by Hilton Seattle - Tacoma International Airport
 Hampton Inn Seattle-Airport
-"The Edgewater, A Noble House Hotel"
+Seattle Hotelsand Places to Stay
+Seattle Hotelsand Places to Stay
+Seattle Airport Marriott
 Hilton Seattle Airport & Conference Center
 Radisson Hotel Seattle Airport
-Seattle Pacific Hotel
 Holiday Inn Express Hotel & Suites Hollywood Hotel Walk of Fame
-Seattle Airport Marriott
-Novotel Amsterdam City
+Hotel Cornelisz
 Profit Hotel
-Barcelo Raval
-Sterling Hotel
-Marriott Suites Dallas Medical Market Center
 Majestic Elegance Punta Cana
+Novotel Amsterdam City
+Barcelo Raval
 The Great Southern Hotel Sydney
+Marriott Suites Dallas Medical Market Center
+Sterling Hotel
+Renaissance Dallas Addison Hotel
 Magnolia Hotel Dallas Downtown
 SpringHill Suites Dallas Downtown/West End
 MCM Elegante Hotel and Suites
-Renaissance Dallas Addison Hotel
+La Quinta Inn & Suites by Wyndham Dallas Downtown
 La Quinta Inn & Suites by Wyndham Dallas - Addison Galleria
-The Eliot Hotel
+Bali Mandira Beach Resort & Spa
+Boston Park Plaza
 DoubleTree Suites by Hilton Boston - Cambridge
-"Fairmont Copley Plaza, Boston"
+The Eliot Hotel
+Fairmont Copley Plaza, Boston
 Sheraton Dallas Hotel
 Hotel Bel-Air
 Marseilles Hotel
@@ -56,1102 +64,1158 @@ Hotel Villa Convento
 JW Marriott New Orleans
 Place d'Armes Hotel
 The Soniat House Hotel
-Embassy Suites by Hilton Hotel Phoenix Biltmore
-Boston Park Plaza
 The Frenchmen Hotel
+Embassy Suites by Hilton Hotel Phoenix Biltmore
 Hotel San Carlos
-Bali Mandira Beach Resort & Spa
+The Camby, Autograph Collection
 Cow Hollow Inn and Suites
-"The Camby, Autograph Collection"
+Hotel Diva
 Hotel Zetta San Francisco
 Hotel Emblem San Francisco
+The Cartwright Hotel - Union Square, BW Premier Collection
 The Clift Royal Sonesta Hotel
-Hotel Diva
-Queen Anne Hotel
+Seattle Hotelsand Places to Stay
 Kensington Park Hotel
-citizenM Schiphol Airport
-The Alexis Royal Sonesta Hotel
+Queen Anne Hotel
 White Swan Inn
-Moore Hotel
+The Alexis Royal Sonesta Hotel
+citizenM Schiphol Airport
 Dongjiao Minxiang Hotel
-"Hotel Kabuki, a Joie de Vivre hotel"
-Marina Inn
-Petite Auberge
-Hotel Griffon - A Greystone Hotel
+Seattle Hotelsand Places to Stay
 Casablanca Hotel by Library Hotel Collection
-University Inn - A Staypineapple Hotel
+Hotel Kabuki, a Joie de Vivre hotel
+Seattle Hotelsand Places to Stay
+Marina Inn
+Hotel Griffon - A Greystone Hotel
+Petite Auberge
+The Kahala Hotel & Resort
+The Royal Hawaiian, a Luxury Collection Resort, Waikiki
 Halepuna Waikiki by Halekulani
+Ambassador Hotel Waikiki
 Waikiki Beachcomber by Outrigger
-"The Royal Hawaiian, a Luxury Collection Resort, Waikiki"
-"The Langham, Boston"
+Seattle Hotelsand Places to Stay
 Lenox Hotel
-"The Adolphus, Autograph Collection"
+The Langham, Boston
 Bostonian Boston
+The Adolphus, Autograph Collection
 Embassy Suites by Hilton New Orleans
+Blake Hotel New Orleans, BW Premier Collection
 Hampton Inn & Suites New Orleans Downtown (French Quarter Area)
-"Blake Hotel New Orleans, BW Premier Collection"
-Hotel Cornelisz
 Club Wyndham Avenue Plaza
-"Arizona Biltmore, A Waldorf Astoria Resort"
 DoubleTree Suites by Hilton Hotel Phoenix
+Arizona Biltmore, A Waldorf Astoria Resort
 InterContinental Mark Hopkins San Francisco
-SpringHill Suites Seattle Downtown/South Lake Union
+Huntington Hotel
 Chancellor Hotel on Union Square
+SpringHill Suites Seattle Downtown/South Lake Union
 Graduate Seattle
-La Quinta Inn & Suites by Wyndham Dallas Downtown
 Holiday Inn Downtown Beijing
 Jianguo Hotel
 Best Western New Orleans East
+Bahia Principe Grand Punta Cana
+Beijing Pudi Hotel
 Silka West Kowloon Hotel
 Crowne Plaza Phoenix Airport
-"The Cartwright Hotel - Union Square, BW Premier Collection"
 Inn at Venice Beach
 Buena Vista Motor Inn
-Chelsea Inn
-Bahia Principe Grand Punta Cana
 Coventry Motor Inn
-Nob Hill Hotel
-"Hotel Del Sol, a Joie de Vivre hotel"
+Chelsea Inn
 Americania Hotel
+Nob Hill Hotel
+Hotel Del Sol, a Joie de Vivre hotel
 Francisco Bay Inn
+Columbus Motor Inn
 Castle Inn
 Inn on Broadway
+Seattle Hotelsand Places to Stay
+Miami Marriott Dadeland
 Fortune House Hotel
+Crest Hotel Suites
 Quality Inn Miami Airport
 Outrigger Waikiki Beach Resort
-Miami Marriott Dadeland
-Crest Hotel Suites
-Ramada by Wyndham Metairie New Orleans Airport
 The Breakers Hotel
-The Kahala Hotel & Resort
-Ambassador Hotel Waikiki
+Ramada by Wyndham Metairie New Orleans Airport
 Wyndham New Orleans French Quarter
 Doubletree by Hilton Hotel New Orleans
 Historic Streetcar Inn
-"The Ritz-Carlton, New Orleans"
+The Ritz-Carlton, New Orleans
+Holiday Inn New Orleans - Chateau Lemoyne
 Copley House
 Hilton Boston Logan Airport
-Huntington Hotel
 Chelsea Pines Inn
 Ramada by Wyndham Los Angeles/Downtown West
-Omni Dallas Hotel at Park West
 Grand Hyatt DFW
+Omni Dallas Hotel at Park West
+The College Inn
 Homewood Suites by Hilton Seattle Downtown
 Fairfield Inn & Suites Seattle - City Center ​
-The College Inn
 Homewood Suites by Hilton Seattle Convention Center Pike Street
 Silver Cloud Hotel Seattle - University District
 Silver Cloud Inn - Seattle Lake Union
 Hampton Inn & Suites Seattle Downtown
-Beijing Pudi Hotel
-Hotel Le Marais
-"Hotel Nexus, BW Signature Collection"
 DoubleTree Suites by Hilton Hotel Seattle Airport - Southcenter
+Hotel Le Marais
 W New Orleans - French Quarter
+Hotel Nexus, BW Signature Collection
 Hotel FIVE - A Staypineapple Hotel
-Days Inn by Wyndham Seattle South Tukwila
+Maison St. Charles by Hotel RL
 Four Points by Sheraton Downtown Seattle Center
+Days Inn by Wyndham Seattle South Tukwila
 San Francisco Marriott Union Square
 Le Meridien New Orleans
-Best Western Seattle Airport Hotel
-Columbus Motor Inn
-Tilden Hotel
-Maison St. Charles by Hotel RL
 Lotte New York Palace
-San Juan Hotel
+Best Western Seattle Airport Hotel
+Tilden Hotel
 SOMA Park Inn - Civic Center
+San Juan Hotel
 Club Wyndham Royal Garden at Waikiki
 Hix Island House
-Hosteria Del Mar
+The Ritz-Carlton, San Juan
 Hotel El Convento
-"The Ritz-Carlton, San Juan"
 El Conquistador Resort
-Copamarina Beach Resort & Spa
+Hosteria Del Mar
+Wyndham Grand Rio Mar Puerto Rico Golf & Beach Resort
 Lazy Parrot Inn
+Copamarina Beach Resort & Spa
+Barcelo Bavaro Beach
 The Westin Puntacana Resort & Club
 Paradisus Punta Cana Resort
-Barcelo Bavaro Beach
-Club Med Punta Cana
 Grand Bavaro Princess
+Seattle Hotelsand Places to Stay
+Club Med Punta Cana
 San Juan Marriott Resort & Stellaris Casino
 Caribe Hilton
-Holiday Inn New Orleans - Chateau Lemoyne
 Hampton Inn & Suites San Juan
-Royal Sonesta San Juan Puerto Rico Resort
 The Condado Plaza Hilton
-Iberostar Dominicana
+Seattle Hotelsand Places to Stay
+Royal Sonesta San Juan Puerto Rico Resort
+Sheraton Old San Juan Hotel
 Iberostar Selection Bavaro
-Hotel Riu Palace Macao
+Iberostar Dominicana
 Hotel Riu Bambu
-Hilton Ponce Golf & Casino Resort
+Hotel Riu Palace Macao
 Hotel Riu Naiboa
 Natura Park Beach Eco Resort & Spa
+Hilton Ponce Golf & Casino Resort
+At Wind Chimes Boutique Hotel
 Embassy Suites by Hilton San Juan Hotel & Casino
+Tryp By Wyndham Isla Verde
 Melia Century Hotel
 Condado Ocean Club
-Tryp By Wyndham Isla Verde
-Sheraton Old San Juan Hotel
-At Wind Chimes Boutique Hotel
 Tamarindo Estates Beach Apartments
-Four Seasons Hotel Mexico City
 Acacia Boutique Hotel
-NH Collection Mexico City Reforma
 Holiday Inn Express San Juan Condado
+Hotel Milano
+Four Seasons Hotel Mexico City
+NH Collection Mexico City Reforma
 Sheraton Mexico City Maria Isabel Hotel
 Hyatt Regency Mexico City
-Wyndham Grand Rio Mar Puerto Rico Golf & Beach Resort
+Hotel Maria Cristina
 Hotel Catedral
+Hilton Mexico City Airport
+InterContinental Presidente Mexico City
 Hotel La Casona
 Hotel Royal Reforma
-Hilton Mexico City Airport
-Room Mate Valentina
 Emporio Reforma
-Fairmont El San Juan Hotel
+Room Mate Valentina
 Fajardo Inn
+Fairmont El San Juan Hotel
 Camino Real Polanco Mexico
-Hotel Milano
-Barcelo Mexico Reforma
 Hotel Casa Gonzalez
+Hotel Geneve Ciudad de Mexico
+Barcelo Mexico Reforma
+Galeria Plaza Reforma
+Cambridge Suites Toronto
 Marriott Downtown at CF Toronto Eaton Centre
 Zocalo Central
-Draycott Hotel
 JW Marriott Hotel Mexico City
+Draycott Hotel
+Le Bristol Paris
 Le Meurice
 Hyatt Paris Madeleine
 Hotel le Tourville
-Le Bristol Paris
 Covent Garden Hotel
 Hotel 41
 Four Seasons Hotel George V
 Hotel de l'Abbaye Saint-Germain
-Sofitel Legend The Grand Amsterdam
 Pulitzer Amsterdam
+Sofitel Legend The Grand Amsterdam
+NH Collection Amsterdam Barbizon Palace
 Hotel Raphael
-Hotel Villa Real
-Cambridge Suites Toronto
 Hotel le Lavoisier
-Canal House
+Hotel Villa Real
 BEST WESTERN Carlos V
+Canal House
 The Westin Palace Madrid
 art'otel berlin mitte
 InterContinental Amstel Amsterdam
-InterContinental Presidente Mexico City
-Hotel El Palace Barcelona
-Hotel Arts Barcelona
-The Dylan Amsterdam
 Claris Hotel & Spa
 Majestic Hotel & Spa Barcelona
+Hotel El Palace Barcelona
+Hotel Arts Barcelona
 Regent Berlin
+The Dylan Amsterdam
 Hotel Adlon Kempinski
-NH Collection Amsterdam Barbizon Palace
-Hotel Loggiato dei Serviti
-The St. Regis Florence
-Helvetia & Bristol Firenze - Starhotels Collezione
-Hilton Berlin
+Hotel Colon
 Hotel SERHS Rivoli Rambla
-The Park City Grand Plaza Kensington Hotel
-The Chesterfield Mayfair
+Helvetia & Bristol Firenze - Starhotels Collezione
+The St. Regis Florence
+Hotel Loggiato dei Serviti
 The Westin Grand Berlin
+Hilton Berlin
 London Bridge Hotel
+The Chesterfield Mayfair
+The Park City Grand Plaza Kensington Hotel
 The Milestone Hotel and Residences
 Hotel Champlain Paris Rive Gauche
+Hotel Artus
 Hotel d'Aubusson
 NH City Centre Amsterdam
+Hotel Lungarno
 The Westin Excelsior Florence
-Hotel Artus
 Hotel Silken Ramblas Barcelona
 Ariele Hotel
-Hotel Lungarno
-Hotel Maxim Axial
 Grand Hotel Cavour
-Hotel Maria Cristina
-Holiday Inn Miami - Doral Area
-Gallery Hotel Art
-Pillows Luxury Boutique Hotel Anna Van Den Vondel
-Hotel Morandi Alla Crocetta
-Grand Hotel Francais
-Louison Hotel
-Hotel Duret
+Hotel Maxim Axial
 Hotel Casci
-Hotel Geneve Ciudad de Mexico
-Hotel Francois 1er
+Gallery Hotel Art
+Holiday Inn Miami - Doral Area
+Hotel Savoy
+Hotel Morandi Alla Crocetta
+Pillows Luxury Boutique Hotel Anna Van Den Vondel
+Louison Hotel
+Grand Hotel Francais
+Hotel Duret
 Golden Tulip Opera De Noailles
-Hotel Colon
-ITC Hotel
-Hotel Ares Paris
-Hotel Saint Christophe
-Galeria Plaza Reforma
-Amistad Hotel
-Terrass'' Hotel
-"Hotel L'Horset Opera, BW Premier Collection"
+Hotel Francois 1er
 Hotel Napoleon
-Savoy Hotel Berlin
-Centro Hotel National Frankfurt City
-Relais Hotel Centrale Residenza D'Epoca
-Le Meridien Frankfurt
-Bristol Hotel Frankfurt
-Frankfurt Marriott Hotel
+Hotel Saint Christophe
+Hotel Ares Paris
+Amistad Hotel
+ITC Hotel
+Seattle Hotelsand Places to Stay
 Best Western Jardin De Cluny
+Terrass'' Hotel
+Hotel L'Horset Opera, BW Premier Collection
+Hotel Regent's Garden - Astotel
+Relais Hotel Centrale Residenza D'Epoca
+Savoy Hotel Berlin
+Bristol Hotel Frankfurt
+Centro Hotel National Frankfurt City
+Frankfurt Marriott Hotel
+Le Meridien Frankfurt
 Grandhotel Hessischer Hof
+Hotel Excelsior
 H4 Hotel Frankfurt-Messe
 Colour Hotel
-Hotel Excelsior
 Hotel Monopol
 Hotel Crowne Plaza Berlin City Centre
 Park Plaza Berlin Kudamm
-InterContinental Berlin
-Hotel Palace Berlin
-Mercure Airport Hotel Berlin Tegel
 Upstalsboom Hotel Friedrichshain
+Mercure Airport Hotel Berlin Tegel
+Hotel Palace Berlin
+InterContinental Berlin
+Seattle Hotelsand Places to Stay
 Berlin Plaza Hotel
-Hotel Savoy
-AZIMUT Hotel Kurfuerstendamm Berlin
+Seattle Hotelsand Places to Stay
 Sofitel Berlin Gendarmenmarkt
-Park Hotel Berlin Neukolln
 Ibis Berlin Mitte
-Steigenberger Airport Hotel Frankfurt
-The Westin Grand Frankfurt
+AZIMUT Hotel Kurfuerstendamm Berlin
 Steigenberger Hotel Berlin
-Sheraton Frankfurt Airport Hotel & Conference Center
+Park Hotel Berlin Neukolln
 Hotel Concorde
-Pullman Berlin Schweizerhof
-"Radisson Blu Hotel, Berlin"
-Hotel Pierre
-Starhotels Michelangelo
+The Westin Grand Frankfurt
+Sheraton Frankfurt Airport Hotel & Conference Center
+Steigenberger Airport Hotel Frankfurt
 IntercityHotel Frankfurt Airport
-Hotel Croce di Malta
-Hotel de La Ville
-Rivoli Boutique Hotel
-Hotel Executive Florence
-Paris Hotel
-Hotel Machiavelli Palace
-Grand Hotel Adriatico
-Continentale Firenze
-Brunelleschi Hotel
-Hotel Laurus al Duomo
-Hotel Albani Firenze
-Hotel Alba Palace
-Hotel Cellai
+Pullman Berlin Schweizerhof
+Radisson Blu Hotel, Berlin
 Classik Hotel Alexander Plaza Berlin
-Hotel Monna Lisa
+Living Hotel Grosser Kurfurst
+Starhotels Michelangelo
+Hotel Pierre
+Hotel Executive Florence
+Hotel de La Ville
+Hotel Croce di Malta
+Rivoli Boutique Hotel
+Grand Hotel Adriatico
+Hotel Albani Firenze
+Hotel Machiavelli Palace
+Brunelleschi Hotel
+Paris Hotel
+Hotel Laurus al Duomo
+Continentale Firenze
+Hotel Cellai
+Hotel Alba Palace
 Italiana Hotels Florence
+Hotel Monna Lisa
+Hotel Balestri
 Hotel Berchielli
 Hotel David
-Hotel Privilege
-Hotel Pendini
-Hotel Balestri
 Hotel Gioia
-Hotel Kursaal Ausonia
-Ville sull'Arno Hotel
-NH Collection Barcelona Gran Hotel Calderon
-Bilderberg Garden Hotel
+Hotel Pendini
+Hotel Privilege
 Conference Florentia Hotel
+Ville sull'Arno Hotel
+Hotel Kursaal Ausonia
+Bilderberg Garden Hotel
+NH Collection Barcelona Gran Hotel Calderon
 Citadines Ramblas Barcelona
+Hotel Derby
 El Avenida Palace
+Exe Cristal Palace
+Sercotel Gran Hotel Conde Duque
 Hotel Moderno
 Pullman Paris Centre - Bercy
+Hotel Albe Saint Michel
 Citadines Saint-Germain-des-Pres Paris
 Gran Hotel Havana
-Hotel Albe Saint Michel
 Fairmont Barcelona Rey Juan Carlos I
 Hilton Times Square
 Sofitel New York
+Hotel Toledano and Hostal R. Capitol
 Hotel Lloret Ramblas
 Hotel Urquinaona
 Hotel Granvia
+Seattle Hotelsand Places to Stay
 Millennium Hilton New York One UN Plaza
+Hilton Waikiki Beach
 Ilikai Hotel & Luxury Suites
-Hotel Toledano and Hostal R. Capitol
 Barcelo Bavaro Beach
 Embassy Suites by Hilton Dorado del Mar Beach Resort
-Sercotel Gran Hotel Conde Duque
+Seattle Hotelsand Places to Stay
+Four Points By Sheraton French Quarter
+Seattle Hotelsand Places to Stay
+Park Shore Waikiki
 Waikiki Beach Marriott Resort & Spa
-Hilton Waikiki Beach
 Luana Waikiki Hotel & Suites
 Studio Allston Hotel
 Ramada by Wyndham Boston
 Holiday Inn North Phoenix
 Miami Beach Resort and Spa
-Park Shore Waikiki
+Hotel Riu Plaza Miami Beach
 Homewood Suites Miami-Airport / Blue Lagoon
 Waikiki Marina Resort at the Ilikai
-Hotel Riu Plaza Miami Beach
-Wyndham Boston Beacon Hill
 Courtyard New Orleans French Quarter/Iberville
+Wyndham Boston Beacon Hill
+Kimpton Muse Hotel
 The Benjamin
 414 Hotel
-Love Field Hotel & Suites
 La Quinta Inn & Suites by Wyndham Miami Airport East
-Hotel Regent's Garden - Astotel
+Love Field Hotel & Suites
+Hilton Dallas Park Cities
 Coast Gateway Hotel
 Red Roof Inn Seattle Airport - SEATAC
 Crowne Plaza Seattle Airport
-Kimpton Muse Hotel
-Hilton Dallas Park Cities
-The Orchard Hotel
 La Quinta Inn & Suites by Wyndham Seattle Downtown
+Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf
+The Orchard Hotel
 Novum Hotel Gates Berlin Charlottenburg
+DoubleTree by Hilton Phoenix North
+Seattle Hotelsand Places to Stay
 Barcelo Bavaro Palace
 Catalonia Punta Cana Golf & Casino Resort
 Vista Sol Punta Cana Beach Resort & Spa
-Living Hotel Grosser Kurfurst
+Seattle Hotelsand Places to Stay
 Be Live Collection Punta Cana
-The Whitney Hotel
+Hotel Riu Naiboa
 Excellence Punta Cana
-Camino Real Aeropuerto
+The Whitney Hotel
 The Pickwick Hotel San Francisco
+Camino Real Aeropuerto
 Courtyard by Marriott Waikiki Beach
-Hotel Oratio
 Hotel des Grands Hommes
-The Wagner at the Battery
-Comfort Inn - Boston
-Hotel Derby
+Hotel Oratio
 Best Western Plus Boston Hotel
-Comfort Inn & Suites Downtown - Port Of Miami
-Exe Cristal Palace
-Elan Hotel
+Comfort Inn - Boston
+The Wagner at the Battery
 HYATT House Miami Airport
+Comfort Inn & Suites Downtown - Port Of Miami
+JW Marriott Miami
+Elan Hotel
 Miyako Hotel Los Angeles
 Best Western Plus Dallas Hotel & Conference Center
-JW Marriott Miami
-Four Points By Sheraton French Quarter
-Holiday Inn Express New Orleans - St Charles
-Renaissance New Orleans Pere Marquette French Quarter Area Hotel
-SpringHill Suites New Orleans Downtown/Convention Center
-Holiday Inn Downtown - Superdome
 Drury Plaza Hotel New Orleans
 Hilton Garden Inn New Orleans Convention Center
-Holiday Inn Express Hotel & Suites North Seattle - Shoreline
+Holiday Inn Downtown - Superdome
+Holiday Inn Express New Orleans - St Charles
+Renaissance New Orleans Pere Marquette French Quarter Area Hotel
+Royal St Charles Hotel
+SpringHill Suites New Orleans Downtown/Convention Center
 Le Richelieu in the French Quarter
+Holiday Inn Express Hotel & Suites North Seattle - Shoreline
+Fairfield Inn Seattle Sea-Tac Airport
 Holiday Inn Seattle Downtown - Lake Union
 Crowne Plaza Hotel Astor-New Orleans
-Courtyard Seattle Downtown/Lake Union
-"The Clancy, Autograph Collection"
-Loews Hollywood Hotel
-Fairfield Inn Seattle Sea-Tac Airport
-Marriott's Villas at Doral
-Royal St Charles Hotel
 JW Marriott Phoenix Desert Ridge Resort & Spa
-The Bryant Park Hotel
-Villa Montana Beach Resort
-Library Hotel by Library Hotel Collection
-"The Ritz-Carlton New York, Central Park"
+Courtyard Seattle Downtown/Lake Union
+The Clancy, Autograph Collection
+Marriott's Villas at Doral
 Hyatt House Dallas/Uptown
+Loews Hollywood Hotel
+Seattle Hotelsand Places to Stay
+Villa Montana Beach Resort
+The Bryant Park Hotel
+Library Hotel by Library Hotel Collection
+The Ritz-Carlton New York, Central Park
+Hilton Garden Inn Dallas / Market Center
 Hampton Inn & Suites by Hilton Miami Airport South - Blue Lagoon
 Embassy Suites by Hilton Phoenix-Scottsdale
-Holiday Inn Express Hotel & Suites San Francisco Fisherman's Wharf
-Hilton Garden Inn Dallas / Market Center
-Days Inn Town Center Hotel Seattle
 Hilton Grand Vacations at Hilton Hawaiian Village
+Grand Hyatt Seattle
+Days Inn Town Center Hotel Seattle
+La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport
 Residence Inn Seattle Downtown/Lake Union
 La Playita
-"Mandarin Oriental, Miami"
-Grand Hyatt Seattle
-Omni San Francisco Hotel
 InterContinental at Doral Miami
-La Quinta Inn & Suites by Wyndham Seattle Sea-Tac Airport
-Layne Hotel
+Mandarin Oriental, Miami
+Omni San Francisco Hotel
+SW Hotel
+Four Seasons Hotel San Francisco
+Seattle Hotelsand Places to Stay
 Inn at the Opera
+Layne Hotel
 Aston Waikiki Beach Tower
-The Grant Hotel
-Hotel Acta Splendid
 Charlesmark Hotel
-Hotel Garbi Millenni
-"Hotel Arya, BW Premier Collection"
-The Surfjack Hotel & Swim Club
+Hotel Arya, BW Premier Collection
+The Grant Hotel
 Hotel Atlantico
+Hotel Acta Splendid
 Hotel Regina Barcelona
-Hilton Frankfurt City Centre
-Mercure Hotel Berlin am Alexanderplatz
-Scandic Berlin Kurfurstendamm
-Hilton Barcelona
+Hotel Garbi Millenni
+The Surfjack Hotel & Swim Club
 HENRI Hotel Berlin
-Gallery Hotel
-Hesperia Barcelona Barri Gotic
+Hilton Frankfurt City Centre
+Scandic Berlin Kurfurstendamm
+Mercure Hotel Berlin am Alexanderplatz
+Hilton Barcelona
 Alimara Barcelona Hotel
+Gallery Hotel
 Crowne Plaza Barcelona - Fira Center
+Seattle Hotelsand Places to Stay
+Hesperia Barcelona Barri Gotic
 Hotel Catalonia Park Putxet
-Renaissance Barcelona Hotel
-Barcelo Sants
 Expo Hotel Barcelona
+Barcelo Sants
+Renaissance Barcelona Hotel
 Catalonia Portal de l'Angel
-Hotel Catalonia Sagrada Familia
-Hesperia Barcelona Presidente
-Caledonian Hotel
 Condado Hotel Barcelona
+Hotel Catalonia Sagrada Familia
+Caledonian Hotel
+Hesperia Barcelona Presidente
 Ayre Gran Hotel Colon
-Eurostars Casa de la Lirica
 Hesperia Sant Joan
+Eurostars Casa de la Lirica
 Hesperia Barcelona Del Mar
-Hesperia Barcelona Sant Just
 Hotel Balmes
+Hesperia Barcelona Sant Just
 Hotel Front Maritim
 Abba Sants Hotel
-Melia Sitges
-Hotel America Barcelona
 Royal Ramblas Hotel
-"Alexandra Barcelona Hotel, Curio Collection by Hilton"
-Renaissance Paris Vendome Hotel
-Hotel Mayfair Paris
-Plaza Tour Eiffel
+Melia Sitges
+Catalonia Plaza Cataluna
+Alexandra Barcelona Hotel, Curio Collection by Hilton
+Hotel America Barcelona
 Gran Versalles Hotel
-Hotel Montebello Splendid
-DoubleTree by Hilton Phoenix North
-FH Calzaiuoli Hotel
-Grand Hotel Baglioni Firenze
-Plaza Lucchesi Hotel
 Hotel Le Littre
+Renaissance Paris Vendome Hotel
+Plaza Tour Eiffel
+Hotel Mayfair Paris
 Hotel Magda Champs-Elysees
-Hotel Riu Naiboa
+Hotel Montebello Splendid
+Grand Hotel Baglioni Firenze
+FH Calzaiuoli Hotel
+Plaza Lucchesi Hotel
 NH Collection Firenze Palazzo Gaddi
-The Toren
+Bernini Palace Hotel
 NH Collection Amsterdam Flower Market
 Mercure Amsterdam Centre Canal District
-Dikker & Thijs Hotel
+The Toren
 Bilderberg Hotel Jan Luyken
-"The Hoxton, Amsterdam"
-NH Collection Amsterdam Doelen
 WestCord City Centre Hotel Amsterdam
-Bernini Palace Hotel
-NH Collection Amsterdam Grand Hotel Krasnapolsky
+Hotel Estherea
+The Hoxton, Amsterdam
 NH Amsterdam Schiller
+Dikker & Thijs Hotel
+NH Collection Amsterdam Doelen
+NH Collection Amsterdam Grand Hotel Krasnapolsky
+Seattle Hotelsand Places to Stay
+The Alfred Hotel
 NH Amsterdam Caransa
 Die Port van Cleve
-Hotel Estherea
+Hard Rock Hotel Amsterdam American
+Kimpton De Witt Amsterdam
 Holiday Inn Amsterdam
-The Alfred Hotel
-Renaissance Amsterdam Hotel
 Amsterdam Marriott Hotel
+Renaissance Amsterdam Hotel
 Hotel Relais Bosquet Paris
 Hotel Splendid Etoile
 Catalonia Barcelona Plaza
-Attica 21 Barcelona Mar
-Regencia Colon Hotel
-Kimpton De Witt Amsterdam
 Condes De Barcelona
+Attica 21 Barcelona Mar
+Le Meridien Barcelona
+Regencia Colon Hotel
 Hotel Adagio
-Gr8 Hotel Amsterdam Riverside
+Hotel Glories
 Hotel Ibis Schiphol Amsterdam Airport
+Gr8 Hotel Amsterdam Riverside
 Hotel Amsterdam - De Roode Leeuw
 Mercure Hotel Amsterdam City
-Park Centraal Amsterdam
 Hotel Okura Amsterdam
+Park Centraal Amsterdam
 Sheraton Amsterdam Airport Hotel and Conference Center
-Hotel Glories
-New West Inn Amsterdam
 INK Hotel Amsterdam - MGallery
 WestCord Art Hotel Amsterdam
-Amsterdam Tropen Hotel
+New West Inn Amsterdam
 Best Western Dam Square Inn
+Amsterdam Tropen Hotel
 Park Plaza Victoria Amsterdam
 Fleming's Express Hotel Frankfurt
-Hotel Cecilia Paris
+Seattle Hotelsand Places to Stay
 Savoy Hotel Frankfurt
+Hotel Cecilia Paris
 Hotel Residence Henri 4
-Grand Hyatt Berlin
 Park Inn by Radisson Berlin Alexanderplatz
+Grand Hyatt Berlin
 InterContinental Frankfurt
-Four Seasons Hotel San Francisco
 Banks Mansion
 Hotel Barcelona Universal
+Hotel Spadai
 FH Grand Hotel Mediterraneo
+Pitti Palace al Ponte Vecchio
+Sheraton Berlin Grand Hotel Esplanade
+Seattle Hotelsand Places to Stay
 Air in Berlin Hotel
 IntercityHotel Berlin Ostbahnhof
-"Radisson Blu Hotel, Amsterdam City Center"
-Nova Hotel Amsterdam
+Radisson Blu Hotel, Amsterdam City Center
 Di-Ann City Centre Hotel
-Sheraton Berlin Grand Hotel Esplanade
+Nova Hotel Amsterdam
 Conscious Hotel Museum Square
-Pitti Palace al Ponte Vecchio
-Hotel Spadai
 Eden Hotel Amsterdam
-Hotel Damrak
 Hotel Ungherese Small Luxury Hotel 2020
+Hotel Damrak
 Ibis Amsterdam Centre
-Aparthotel Atenea
-"Hotel Barcelona Apolo, affiliated by Melia"
-Aparthotel Mariano Cubi
 Ibis Amsterdam Centre Stopera
-Hotel Paral.lel
-Hotel Midmost
+Hotel Barcelona Apolo, affiliated by Melia
+Aparthotel Atenea
+Aparthotel Mariano Cubi
 Hispanos 7 Suiza
-Catalonia Plaza Cataluna
-Hotel Liabeny
+Hotel Midmost
 H10 Itaca Hotel
-Hotel Rialto
-Ambassade Hotel
-The Albus
-The Highlander
-Hotel De Gerstekorrel
-Avenue Hotel
-Hotel Piet Hein
-Hotel Nadia
-De L'Europe Amsterdam
-Singel Hotel
-Hotel Nes
-Radisson Blu Hotel Amsterdam Airport
+Hotel Paral.lel
 H10 Raco Del Pi
-Hollywood Media Hotel
-The ED Amsterdam
+Hotel Rialto
+Hotel Liabeny
+Ambassade Hotel
+Avenue Hotel
+The Highlander
+The Albus
+Hotel De Gerstekorrel
+Hotel Blyss
+Hotel Nes
+Hotel Piet Hein
+De L'Europe Amsterdam
+Hotel Nadia
+Radisson Blu Hotel Amsterdam Airport
+Singel Hotel
 Swissotel Amsterdam
+The ED Amsterdam
+Hollywood Media Hotel
 Exe Mitre
 Grupotel Gravina
 Hotel Arc La Rambla
+Hotel Europark
+Lleo Hotel
 Hotel Viladomat
 Nouvel Hotel
-Hotel Europark
 Hotel Preciados
-Lleo Hotel
 Hotel Rapallo
 Hotel Corona D'Italia
-Hotel Londra
+Hotel Basilea
+Hotel Meridiana
+Il Guelfo Bianco
 Hotel Argentina
-Hard Rock Hotel Amsterdam American
-Le Meridien Barcelona
+Hotel Londra
 NH Firenze Anglo American
 Al Ponte Antico Hotel
 Hotel Louvre Sainte Anne
 Hotel Medici
-Hotel du Cadran
-Hotel Meridiana
-Hotel Basilea
-Hotel Duquesne Eiffel
+Hotel Orto De Medici
 Palazzo Magnani Feroni
+Hotel du Cadran
+Hotel Duquesne Eiffel
 Hotel Langlois
-Hotel Bassano
-SORAT Hotel Ambassador Berlin
 Hotel Brighton - Esprit de France
+Hotel Bassano
 Hotel de Banville
+SORAT Hotel Ambassador Berlin
 Art'Otel Berlin Kudamm
+Seattle Hotelsand Places to Stay
+Mercure Hotel & Residenz Berlin Checkpoint Charlie
 Leonardo Hotel Frankfurt City South
-Hotel Blyss
-Il Guelfo Bianco
 Rafaelhoteles Ventas
+H10 Catalunya Plaza
 Gran Hotel Barcino
+U232 Hotel
 Hotel Sant Agusti
 Exe Laietana Palace
-U232 Hotel
-Hotel Amrey Sant Pau
-H10 Catalunya Plaza
 Park Hotel Barcelona
-Mercure Hotel & Residenz Berlin Checkpoint Charlie
-Kimpton Nine Zero Hotel
-Aparthotel Silver
+Hotel Amrey Sant Pau
 Hotel Residence Foch
+Kimpton Nine Zero Hotel
+Tourist House Liberty
+Aparthotel Silver
 Hotel Zoo Berlin
+Propeller Island City Lodge
+DORMERO Hotel Berlin Ku'damm
 MOXY New Orleans Downtown/French Quarter Area
 Sofitel Washington DC
 Hotel Keppler
 Disneyland Hotel
-Propeller Island City Lodge
 Albergo Firenze
-SW Hotel
 Hotel Torre Guelfa
-DORMERO Hotel Berlin Ku'damm
-Tourist House Liberty
+Porta Faenza
+Hotel La Scaletta
+La Residenza
 Hotel Alessandra
 Il Tornabuoni Hotel
-La Residenza
-Hotel La Scaletta
+Seattle Hotelsand Places to Stay
+Hotel Villa Liana
+Seattle Hotelsand Places to Stay
 Botel
-Hotel Brian
 Hotel Atlas Vondelpark
 Hotel Hortus
-St Christopher's at the Winston
+Hotel Brian
 Hotel Washington
-Hotel Catalonia Park Guell
-Hotel Villa Liana
-Hotel Continental Barcelona
-Hotel La Perle
-Hotel Cuatro Naciones
+St Christopher's at the Winston
 Seven Bridges Hotel
-Hotel Balcony
-Hotel Peninsular
-Hotel San Giorgio & Olimpic Florence
-Hotel Fita
+Hotel Catalonia Park Guell
+Hotel Continental Barcelona
 Sofitel London St James
-Owl Hotel
+Hotel La Perle
+Seattle Hotelsand Places to Stay
+Hotel Peninsular
+Hotel Cuatro Naciones
+Hotel San Giorgio & Olimpic Florence
+Hotel Giglio
+Hotel Balcony
 Hotel Albion
 Palazzo dal Borgo
+Owl Hotel
+Hotel Fita
 Hotel Sint Nicolaas
+Seattle Hotelsand Places to Stay
 Hotel Hestia
 Rho Hotel
-Jupiter Hotel
+Hotel Prins Hendrik
 Belfort Hotel
+Jupiter Hotel
+Hotel The Neighbour's Magnolia
+Hotel Aalders
+Hotel Apple Inn
 Hotel Mario's
 Hotel Merlini
-Hotel Aalders
-Hotel The Neighbour's Magnolia
 Hotel Bigallo
 A-Train Hotel
-Hotel Prins Hendrik
-Clemens Hotel
 Max Brown Hotel Canal District
-Acacia Suite
-Falcon Plaza Hotel
+Clemens Hotel
 Max Brown Hotel Museum Square
-Rhonda House
-NH Amsterdam Noord
-Cityden Residences Museum Square
+Seattle Hotelsand Places to Stay
+Acacia Suite
 Amsterdam Wiechmann Hotel
+NH Amsterdam Noord
+Falcon Plaza Hotel
+Cityden Residences Museum Square
+Rhonda House
 Relais Uffizi
-Hotel Sebastian's
 Hotel Cimabue
-Hotel Elysees Regencia Paris
+Hotel Sebastian's
 Eco Hostal Grau
 Hotel Cram
-Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila
 Leonardo Hotel Barcelona Las Ramblas
+Hotel Elysees Regencia Paris
+Hilton Garden Inn Phoenix Midtown
+Homewood Suites by Hilton Seattle-Tacoma Airport/Tukwila
 Days Inn by Wyndham Seatac Airport
+The Ritz-Carlton, New Orleans
 The New Casablanca on the Ocean
 Fairfield Inn & Suites Phoenix Midtown
 Eurostars Grand Marina Hotel
-"Tilt Hotel Universal / Hollywood, an Ascend Hotel Collection Member"
+Tilt Hotel Universal / Hollywood, an Ascend Hotel Collection Member
 Mithila
-Hilton Mexico City Reforma
 Loft 523 New Orleans
+Hilton Mexico City Reforma
 Botticelli Hotel
 Best Western Plus Condado Palm Inn & Suites
 Mare St. Clair Hotel
 Rincon Beach Resort
-Relais Hotel du Vieux Paris
 Hyatt Regency Waikiki Beach Resort & Spa
-Novum Hotel Aldea Berlin Centrum
+Relais Hotel du Vieux Paris
 Hotel SOFIA Barcelona - in the Unbound Collection by Hyatt
-Occidental Punta Cana
+GOLD INN Adrema Hotel
+Novum Hotel Aldea Berlin Centrum
 Hotel Fusion
+Occidental Punta Cana
 Mercure Hotel Berlin Mitte
 The Mandala Hotel
-Hotel Orto De Medici
 LHP Hotel River
-Hotel Arena
 Hotel Orcagna
+Hotel Arena
 Hotel Manofa
-"Las Casitas Village, A Waldorf Astoria Resort"
-San Juan Water Beach Club Hotel
 Comfort Inn
-The Brentwood Inn
+San Juan Water Beach Club Hotel
+Las Casitas Village, A Waldorf Astoria Resort
 St. Vincent's Guest House
-Porta Faenza
-Novotel Berlin Mitte
+The Brentwood Inn
 The Westin New York at Times Square
+Oriente Atiram
+Novotel Berlin Mitte
 enjoy hotel Berlin City Messe
+NH Collection Berlin Mitte Friedrichstrasse
 Room Mate Luca
 Hampshire Golfhotel - Waterland
-NH Collection Berlin Mitte Friedrichstrasse
-Oriente Atiram
-Hotel Giglio
 Stadium Hotel
 Ku' Damm 101
+Seattle Hotelsand Places to Stay
 Watertown Hotel - A Staypineapple Hotel
-Ramada by Wyndham Hialeah/Miami Airport North
-Rembrandtplein Hotel
-Hotel La Gioconda
-Hilton Garden Inn Phoenix Midtown
-Hotel Shocard at Times Square
-Inntel Hotels Amsterdam Zaandam
-Luna & Simone Hotel
-Hotel Miramar
 SpringHill Suites Miami Airport South
-Holiday Inn Sydney Airport
-Hotel Apple Inn
-H10 Montcada Boutique Hotel
-Holiday Inn Darling Harbour
-Hotel Habita
-Pullman Sydney Hyde Park
+Ramada by Wyndham Hialeah/Miami Airport North
+Hotel La Gioconda
+Rembrandtplein Hotel
+Inntel Hotels Amsterdam Zaandam
+Hotel Miramar
+Luna & Simone Hotel
+Hotel Shocard at Times Square
 Four Points by Sheraton Barcelona Diagonal
+H10 Montcada Boutique Hotel
+Hotel Habita
+Holiday Inn Sydney Airport
+Holiday Inn Potts Point - Sydney
+Holiday Inn Darling Harbour
 Cambridge Hotel Sydney
 Vibe Hotel Sydney
+Hilton Sydney
 Novotel Sydney International Airport
-Best Western Plus Hotel Stellar
+Pullman Sydney Hyde Park
 Sydney Harbour Marriott Hotel at Circular Quay
-Holiday Inn Potts Point - Sydney
+Best Western Plus Hotel Stellar
+Seattle Hotelsand Places to Stay
 The Kirketon Hotel
+Seattle Hotelsand Places to Stay
 Novotel Sydney Central
-Hyde Park Inn
-Hyatt Regency Sydney
-Oaks Sydney Hyde Park Suites
 Establishment Hotel
+Hyatt Regency Sydney
+Four Seasons Hotel Sydney
+Ibis Sydney Darling Harbour
+Hyde Park Inn
+Oaks Sydney Hyde Park Suites
 Adina Apartment Hotel Sydney Darling Harbour
 Adina Apartment Hotel Sydney Town Hall
-"The Ritz-Carlton, New Orleans"
-Napoleon on Kent
+Swissotel Sydney
+Seattle Hotelsand Places to Stay
 Mercure Sydney
-Four Seasons Hotel Sydney
-Novotel Sydney on Darling Harbour
-Park Hyatt Sydney
+Napoleon on Kent
 Novotel Sydney Brighton Beach
 Novotel Sydney Darling Square
-The Sebel Quay West Suites Sydney
+Novotel Sydney on Darling Harbour
+Park Hyatt Sydney
 Pullman Quay Grand Sydney Harbour
+The Sebel Quay West Suites Sydney
 Radisson Hotel And Suites Sydney
 Radisson Blu Plaza Hotel Sydney
-Ibis Sydney Darling Harbour
+Mantra 2 Bond Street Sydney
 Sheraton Grand Sydney Hyde Park
 Sir Stamford at Circular Quay Hotel Sydney
-Mantra 2 Bond Street Sydney
-The Star Grand Hotel and Residences
-"The Langham, Sydney"
-"Pier One Sydney Harbour, Autograph Collection"
 Stamford Plaza Sydney Airport
-Travelodge Hotel Sydney Martin Place
+The Star Grand Hotel and Residences
+Seattle Hotelsand Places to Stay
+The Langham, Sydney
+Pier One Sydney Harbour, Autograph Collection
+Rendezvous Hotel Sydney The Rocks
 The Fullerton Hotel Sydney
+Travelodge Hotel Sydney Martin Place
+Travelodge Hotel Sydney
 The York by Swiss-Belhotel
+AC Hotel by Marriott New Orleans French Quarter
 Homewood Suites by Hilton New Orleans
 Rydges World Square Sydney Hotel
 Cremorne Point Manor
-AC Hotel by Marriott New Orleans French Quarter
 Travelodge Hotel Sydney Wynyard
-Rendezvous Hotel Sydney The Rocks
+Vibe Hotel Rushcutters Bay Sydney
+Seattle Hotelsand Places to Stay
 Victoria Court Hotel Sydney
 Ovolo Woolloomooloo
-Travelodge Hotel Sydney
 PARKROYAL Darling Harbour
 Rydges North Sydney
-Vibe Hotel Rushcutters Bay Sydney
+Best Western Haven Glebe
 Strozzi Palace Hotel
 The Hughenden Boutique Hotel
-Dorchester Hotel
-Hilton Sydney
-Best Western Haven Glebe
-GOLD INN Adrema Hotel
 The Russell Boutique Hotel
-Mediterranean Inn
-HCC Montblanc
+Le Meridien Dallas by the Galleria
+Dorchester Hotel
 Hotel Commonwealth
+HCC Montblanc
+Mediterranean Inn
+Seattle Hotelsand Places to Stay
+Renaissance New Orleans Arts Warehouse District Hotel
+Seattle Hotelsand Places to Stay
 Arts Hotel
+Seattle Hotelsand Places to Stay
 Grand Palladium Bavaro Suites Resort & Spa
 Hotel Duquesa de Cardona
-Renaissance New Orleans Arts Warehouse District Hotel
-Heart of Amsterdam
-Hotel ZaZa Dallas
 The SoHo Hotel & Residences
+Hotel ZaZa Dallas
+Heart of Amsterdam
+Seattle Hotelsand Places to Stay
 Mercure Hotel Berlin City
 Holiday Inn Express Frankfurt-Airport
-Millennium Hilton New York Downtown
 Hotel Perseo
-Hotel Europa Style
-Sofitel Sydney Wentworth
 Hotel Sampaoli
+Hotel Europa Style
+Millennium Hilton New York Downtown
 Rydges Sydney Central
+Sofitel Sydney Wentworth
 Lombardi Hotel
-Nicolaas Witsen Hotel
-Rincon Of The Seas Grand Caribbean Hotel
-Delle Nazioni Hotel
 Hotel Degli Orafi
-Hotel Madrigal
 Hostal Adriano
-Grand Sirenis Punta Cana Resort
-Ibis Sydney Airport
-Hotel Apollon Montparnasse
+Rincon Of The Seas Grand Caribbean Hotel
+Nicolaas Witsen Hotel
+Hotel Madrigal
+Delle Nazioni Hotel
+Seattle Hotelsand Places to Stay
 Piccolo Hotel
+Hotel Apollon Montparnasse
 Hotel de Londres Eiffel
 Grand Sirenis Punta Cana Resort
-The Clarendon Hotel and Spa
-Hotel La Fortezza
+Ibis Sydney Airport
 Gran Hotel La Florida
-HCC Taber
+The Clarendon Hotel and Spa
 Hotel Europa
-Seattle Marriott Waterfront
+Grand Sirenis Punta Cana Resort
+Hotel La Fortezza
+HCC Taber
 The Boston Common Hotel and Conference Center
+Residence Inn Boston Harbor On Tudor Wharf
+Seattle Marriott Waterfront
 Club Quarters Hotel in San Francisco
-Courtyard Isla Verde Beach Resort
+Seattle Hotelsand Places to Stay
 Loews New Orleans Hotel
-Le Germain Hotel Toronto Mercer
-"Argonaut Hotel, A Noble House Hotel"
-Miami Gardens Inn & Suites
 Coral Princess Hotel
+Courtyard Isla Verde Beach Resort
+Le Germain Hotel Toronto Mercer
+Argonaut Hotel, A Noble House Hotel
+Miami Gardens Inn & Suites
+Amsterdam House Hotel
 't Hotel
 Hotel Luxembourg Parc
 Hotel du Cadran
 Four Points by Sheraton Phoenix North
-Comfort Inn - Los Angeles / West Sunset Blvd.
 Hotel du College de France
+Seattle Hotelsand Places to Stay
+Comfort Inn - Los Angeles / West Sunset Blvd.
 Hotel des Arts Amsterdam
-Metro Aspire Hotel Sydney
 XO Hotels Infinity
-Kempinski Hotel Frankfurt Gravenbruch
-Amsterdam House Hotel
+Metro Aspire Hotel Sydney
 Novum Hotel Continental Frankfurt
+Kempinski Hotel Frankfurt Gravenbruch
 Continental Palacete
 Hotel Acta Atrium Palace
 Catalonia Eixample 1864
-"Motif Seattle, a Hyatt Hotel"
-Bastion Hotel Amsterdam Zuidwest
-DoubleTree by Hilton London - Westminster
-Bastion Hotel Amsterdam Amstel
 Parador Villas del Mar Hau
-W Mexico City
+Motif Seattle, a Hyatt Hotel
 Holiday Inn Express & Suites Seattle Sea-Tac Airport
-NH Amsterdam Centre
+Bastion Hotel Amsterdam Amstel
+Bastion Hotel Amsterdam Zuidwest
 Hotel Victorie
-Rodo Hotel Fashion Delight
-Hotel Arcadia
-Hotel Colomba
+NH Amsterdam Centre
+DoubleTree by Hilton London - Westminster
+W Mexico City
 Domus Florentiae Hotel
+Hotel Arcadia
+Rodo Hotel Fashion Delight
+Hotel Colomba
+Globus Urban Hotel
 Palazzo Niccolini al Duomo
 UNAHOTELS Vittoria Firenze
-Globus Urban Hotel
+Berlin Marriott Hotel
+Seattle Hotelsand Places to Stay
 Le Relais du Marais
-Residence Inn Boston Harbor On Tudor Wharf
+Seattle Hotelsand Places to Stay
 Hotel The Craftsmen
-Pointe Hilton Tapatio Cliffs Resort
-Santa Maria Novella Hotel
-Four Seasons Hotel Miami
-Le Meridien Dallas by the Galleria
-The Place Firenze
 Hampton Inn Manhattan-Seaport-Financial District
-"Hotel Adagio, Autograph Collection"
-Movenpick Hotel Berlin
-NH Collection Frankfurt City
-Senator Barcelona Spa Hotel
-Salles Hotel Pere IV
-VIK hotel ARENA BLANCA
-"Mandarin Oriental, New York"
-Andrew Jackson Hotel
+Pointe Hilton Tapatio Cliffs Resort
+Four Seasons Hotel Miami
+Santa Maria Novella Hotel
 Taylor Hotel
+The Place Firenze
+Hotel Adagio, Autograph Collection
+Seattle Hotelsand Places to Stay
+Movenpick Hotel Berlin
+VIK hotel ARENA BLANCA
+NH Collection Frankfurt City
+Hotel Auto Hogar
+Dallas Marriott Downtown
+Salles Hotel Pere IV
+Senator Barcelona Spa Hotel
+Mandarin Oriental, New York
+7 Islas Hotel
+Andrew Jackson Hotel
 Silver Cloud Hotel - Seattle Broadway
 The Fairmont Olympic Seattle
-Dallas Marriott Downtown
-H10 Marina Barcelona Hotel
 Hotel Adler Cavalieri
-7 Islas Hotel
+Altamont Hotel Sydney - by 8Hotels
+Hotel France Albion
+H10 Marina Barcelona Hotel
 ARCOTEL Velvet
 Hotel Aranea
 Hotel Ateneo Puerta del Sol
-Hotel Roemer
-Swissotel Sydney
-Hostal Cruz Sol
-Hotel France Albion
 Hotel de Varenne
+Hotel Roemer
+Hotel Benivieni
 Grand Palladium Palace Resort Spa & Casino
-Altamont Hotel Sydney - by 8Hotels
+Hostal Cruz Sol
 Hotel Il Bargellino
+Hotel De Koopermoolen
+Amora Hotel Jamison Sydney
 White Sands Hotel
 Harrah's Hotel New Orleans
-Amora Hotel Jamison Sydney
+Seattle Hotelsand Places to Stay
 Hyatt Regency Grand Reserve Puerto Rico
 Hotel Nizza
 Vincci Maritimo Barcelona
-Hotel Weber
 Hotel Amstelzicht
-Pension Dali-
-Marriott's Canyon Villas
+Hotel Weber
 Amsterdam Hostel Uptown
+Hotel Neri Relais & Chateaux
+Pension Dali-
+B&B Hotel Madrid Centro Plaza Mayor
+Marriott's Canyon Villas
 Athenaeum Hotel
 Hotel Banys Orientals
-Hotel Neri Relais & Chateaux
 Conrad Miami
-B&B Hotel Madrid Centro Plaza Mayor
+Steigenberger Airport Hotel Amsterdam
 Ibis Styles Berlin City Ost
+Seattle Hotelsand Places to Stay
+The Ritz-Carlton, Berlin
 Hotel Antiche Figure
-"The Ritz-Carlton, Berlin"
 HLG CityPark Pelayo Hotel
 Quatro Puerta del Sol Hotel
-Hotel Benivieni
 Hostal Barrera
 Nobu Hotel Barcelona
-Steigenberger Airport Hotel Amsterdam
+San Gallo Palace
 Hotel Le Walt
 Holiday Inn Miami West - Airport Area
+Sir Victor Hotel
 Hotel du Collectionneur
-San Gallo Palace
-Sixtytwo Hotel
-Grand Palladium Punta Cana Resort & Spa
 Occidental Atenea Mar - Adults only
+Seattle Hotelsand Places to Stay
+Grand Palladium Punta Cana Resort & Spa
+Sixtytwo Hotel
+Caribe Deluxe Princess
+Seattle Hotelsand Places to Stay
+Seattle Hotelsand Places to Stay
 Vulcan Hotel Sydney
 Hotel Andrea
 Hotel Caravaggio
 Hotel Davanzati
-Hotel Luxer
 Hotel de L'Eau Vive
+Hotel Luxer
 Hotel Multatuli
 Hotel Pulitzer Barcelona
-Caribe Deluxe Princess
 Hotel Jazz
-InterContinental Singapore
+Seattle Hotelsand Places to Stay
 InterContinental Bali Resort
+InterContinental Singapore
 Rosedale Hotel Hong Kong
 JEN Hong Kong by Shangri-La
-Boyue Beijing Hotel
-Mercure Kuta Bali
 Novotel Bali Benoa
+Mercure Kuta Bali
 Rendezvous Hotel Singapore by Far East Hospitality
+Boyue Beijing Hotel
 Courtyard by Marriott Tokyo Ginza Hotel
 Novotel Xinqiao Beijing
-Novotel Beijing Peace
 Holiday Inn San Francisco - Intl Airport
-Marco Polo Hongkong Hotel
-"PARKROYAL COLLECTION Marina Bay, Singapore"
-Prince Hotel (Marco Polo Hotels)
-Capital Hotel Beijing
+Novotel Beijing Peace
+Novotel Century Hong Kong
 ANA InterContinental Tokyo
+Marco Polo Hongkong Hotel
+Prince Hotel (Marco Polo Hotels)
+PARKROYAL COLLECTION Marina Bay, Singapore
+Capital Hotel Beijing
 Howard Johnson Paragon Hotel Beijing
-Shinagawa Prince Hotel
 Cerulean Tower Tokyu Hotel
-Sunshine City Prince Hotel
 Hotel New Otani Tokyo The Main
-"Mandarin Oriental, Hong Kong"
-Regent Singapore
-Berlin Marriott Hotel
-Goodwood Park Hotel
-Fairmont Singapore
-"Mandarin Oriental, Singapore"
-Swissotel Merchant Court Singapore
-Swissotel The Stamford Singapore
-Raffles Hotel Singapore
+Shinagawa Prince Hotel
 Shinjuku Prince Hotel
+Sunshine City Prince Hotel
+Mandarin Oriental, Hong Kong
+Regent Singapore
+Mandarin Oriental, Singapore
+Goodwood Park Hotel
+Swissotel The Stamford Singapore
+Swissotel Merchant Court Singapore
+Fairmont Singapore
+Raffles Hotel Singapore
 Swissotel Beijing Hong Kong Macau Center
-Hotel De Koopermoolen
-Hotel Auto Hogar
-Copthorne King's Hotel Singapore on Havelock Road
-The Legian Bali
+Seattle Hotelsand Places to Stay
 Alila Manggis
-M Hotel Singapore
 Alila Ubud
-The Westin Tokyo
-The St. Regis Beijing
-The Great Wall Hotel Beijing
+The Legian Bali
 Park Hotel Tokyo
+Copthorne King's Hotel Singapore on Havelock Road
+Seattle Hotelsand Places to Stay
+M Hotel Singapore
+The Great Wall Hotel Beijing
+The St. Regis Beijing
+The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali
+The Westin Tokyo
 Sheraton Towers Singapore
-Four Seasons Hotel Singapore
-Grand Hotel Beijing
-Hilton Bali Resort
-The Peninsula Beijing
-Four Seasons Hotel Tokyo at Marunouchi
-"The Laguna, a Luxury Collection Resort & Spa, Nusa Dua, Bali"
-The Peninsula Hong Kong
 Four Seasons Resort Bali at Sayan
+Four Seasons Hotel Singapore
+Four Seasons Hotel Tokyo at Marunouchi
+Seattle Hotelsand Places to Stay
+Hilton Bali Resort
+Grand Hotel Beijing
+The Peninsula Beijing
+The Peninsula Hong Kong
+Shangri-La Hotel, Singapore
 Island Shangri-La Hong Kong
-"The Ritz-Carlton, Millenia Singapore"
-Shangri-La's China World Hotel
-"Shangri-La Hotel, Beijing"
-Kerry Hotel Beijing
-AYANA Resort and Spa Bali
 Kowloon Shangri-La Hong Kong
+Shangri-La Hotel, Beijing
+Shangri-La's China World Hotel
+Kerry Hotel Beijing
 Regal Kowloon Hotel
-Hard Rock Hotel Bali
-Harbour Plaza North Point
+The Ritz-Carlton, Millenia Singapore
+AYANA Resort and Spa Bali
+Pan Pacific Singapore
 Harbour Grand Kowloon
+Harbour Plaza North Point
+Hard Rock Hotel Bali
+Nusa Dua Beach Hotel & Spa
 Grand Nikko Tokyo Daiba
 The Oberoi Beach Resort
-Pan Pacific Singapore
-"Le Meridien Hong Kong, Cyberport"
-Village Hotel Changi by Far East Hospitality
+Le Meridien Hong Kong, Cyberport
 Imperial Hotel Tokyo
-MELIA BALI
-Beijing International Hotel
-"Shangri-La Hotel, Singapore"
+Village Hotel Changi by Far East Hospitality
 Sol by Melia Benoa Bali - All Inclusive
+MELIA BALI
 Hotel Nikko New Century Beijing
-Nusa Dua Beach Hotel & Spa
+Bamboo Garden Hotel
+Beijing International Hotel
 Beijing Friendship Hotel
 Prime Hotel
-Ayodya Resort Bali
+Crowne Plaza Beijing Wangfujing
+Pita Maha Resort and Spa
 The Kowloon Hotel
-Hilton Tokyo
-Sir Victor Hotel
-"The Park Lane Hong Kong, a Pullman Hotel"
 Hotel Garance
-"The Westin Resort Nusa Dua, Bali"
+Ayodya Resort Bali
+Hotel Asia Center of Japan
+Hilton Tokyo
 Keio Plaza Hotel Tokyo
-Hotel Metropolitan Tokyo Ikebukuro
-Bamboo Garden Hotel
 Sansi Diputacio Hotel
+The Park Lane Hong Kong, a Pullman Hotel
+The Westin Resort Nusa Dua, Bali
+Hotel Metropolitan Tokyo Ikebukuro
 Royal Plaza on Scotts
+Ramayana Resort & Spa
 InterContinental Hong Kong
 Marnix Hotel
-Ramayana Resort & Spa
 Commune by the Great Wall
 V- Continent Beijing Parkview Wuzhou
 Wyndham Beijing North
-Hotel Asia Center of Japan
+Seattle Hotelsand Places to Stay
 Grand Hyatt Beijing
 Hilton Beijing
-Bishop Lei International House
 Presidential Beijing
+Bishop Lei International House
 City Garden Hotel
-Sunworld Dynasty Hotel Beijing Wangfujing
-Silka Seaview Hotel
-Orchard Hotel Singapore
 CITIC Hotel Beijing Airport
+Sunworld Dynasty Hotel Beijing Wangfujing
+Conrad Hong Kong
+Seattle Hotelsand Places to Stay
+Silka Seaview Hotel
+Village Hotel Bugis by Far East Hospitality
+Orchard Hotel Singapore
+Axel Hotel Barcelona & Urban Spa
 Ayre Hotel Caspe
 The Imperial Hotel
-Conrad Hong Kong
-Kimberley Hotel
 InterContinental Grand Stanford
-"Cordis, Hong Kong"
-Axel Hotel Barcelona & Urban Spa
-Village Hotel Bugis by Far East Hospitality
-Pita Maha Resort and Spa
+Kimberley Hotel
+Cordis, Hong Kong
 Harbour Plaza Metropolis
 Metropark Hotel Causeway Bay Hong Kong
 The Mira Hong Kong
+Panda Hotel
 Best Western Plus Hotel Kowloon
+The Royal Garden
 Royal Pacific Hotel
 Royal Park Hotel
-The Royal Garden
+Royal Plaza Hotel
+Silvermine Beach Resort
 South Pacific Hotel
 Stanford Hillview Hotel
-Robertson Quay Hotel
-Panda Hotel
 The Empire Hotel Wan Chai
-Silvermine Beach Resort
-Conrad Centennial Singapore
+Robertson Quay Hotel
 The Elizabeth Hotel by Far East Hospitality
-Hotel Grand Central
+Seattle Hotelsand Places to Stay
+Conrad Centennial Singapore
 The Fullerton Hotel Singapore
+Hotel Grand Central
 Grand Hyatt Singapore
+Grand Park City Hall
 Q Loft Hotel 1929 @ Chinatown
 The Inn at Temple Street
-Grand Park City Hall
 Orchard Rendezvous Hotel by Far East Hospitality
 Sheraton Miyako Hotel Tokyo
-The Harbourview Hong Kong
-Grand Inna Bali Beach
 Shiba Park Hotel
-Hotel Nikko Bali Benoa Beach
+The Harbourview Hong Kong
 Grand Hyatt Tokyo
-Hotel Century Southern Tower
 Prime Plaza Hotel Sanur - Bali
-Dai-ichi Hotel Tokyo
+Grand Inna Bali Beach
+Hotel Nikko Bali Benoa Beach
+Hotel Century Southern Tower
 Dai-Ichi Hotel Annex
+Dai-ichi Hotel Tokyo
+Seattle Hotelsand Places to Stay
+Park Hyatt Tokyo
 Royal Park Hotel
 Shibuya Excel Hotel Tokyu
+Seattle Hotelsand Places to Stay
 Puri Bagus Lovina
-Club Bali Mirage
-Novotel Century Hong Kong
 Camakila Tanjung Benoa
-Komaneka at Monkey Forest
+Club Bali Mirage
 The Patra Bali Resort & Villas
-Bali Dynasty Resort Hotel
+Komaneka at Monkey Forest
+Grand Hyatt Bali
 Four Seasons Resort Bali at Jimbaran Bay
-Puri Santrian
 Maya Ubud Resort & Spa
+Bali Dynasty Resort Hotel
+Puri Santrian
 Legian Beach Hotel
 Amankila
-Discovery Kartika Plaza Hotel
 Padma Resort Legian
+Discovery Kartika Plaza Hotel
 Hotel Miramar Singapore
 Bali Spirit Hotel and Spa
-Keraton Jimbaran Resort
-Hotel Santika Premiere Beach Resort Bali
 Grand Mirage Resort & Thalasso Spa - Bali
+Hotel Santika Premiere Beach Resort Bali
 Grand Inna Kuta
+Keraton Jimbaran Resort
 Ascott Beijing
 Hong Kong Gold Coast Hotel
 Grand View Garden Hotel
+Stanford Hotel Hong Kong
 AlamKulKul Boutique Resort
 Bounty Hotel
-Stanford Hotel Hong Kong
 The Jayakarta Bali Beach Resort
 Kupu Kupu Barong Villas and Tree Spa
 Kimpton Hotel Fontenot
 The Damai
 Impiana Private Villas Seminyak
-Lusongyuan Hotel
 Haoyuan Hotel
+Lusongyuan Hotel
 Hotel Concordia Barcelona
+Seattle Hotelsand Places to Stay
 YWCA Fort Canning
 Hotel Residence Le Coin
 Shinjuku Washington Hotel Annex
@@ -1161,593 +1225,626 @@ Hotel Europa
 The Metro Hotel
 Bali Tropic Resort and Spa
 Pelangi Bali Hotel
-Leonardo Hotel Barcelona Gran Via
-Punta Cana Princess
-Culebra Beach Villas
-Tropical Deluxe Princess
-Bcn Urbaness Hotels Gran Ducat
-Courtyard Boston Copley Square
 Acevi Villarroel
-Crowne Plaza Beijing Wangfujing
-Dallas/Addison Marriott Quorum by the Galleria
-Conrad Bali
+Leonardo Hotel Barcelona Gran Via
+Courtyard Boston Copley Square
+Tropical Deluxe Princess
+Punta Cana Princess
+Bcn Urbaness Hotels Gran Ducat
+Culebra Beach Villas
 Evergreen Hotel
+Seattle Hotelsand Places to Stay
+Dallas/Addison Marriott Quorum by the Galleria
+Holiday Inn Express Frankfurt-Messe
+Conrad Bali
+Hampton Inn & Suites Boston Crosstown Center
+Best Western Plus St. Christopher Hotel
 Hilton Garden Inn New Orleans French Quarter/CBD
 Leonardo Da Vinci
+Hotel Sunroute Plaza Shinjuku
 Loews Boston Hotel
 Griya Santrian
-Best Western Plus St. Christopher Hotel
-Hampton Inn & Suites Boston Crosstown Center
-Hotel Sunroute Plaza Shinjuku
 The Bale
 Holiday Inn Central Plaza
+Holiday Inn Beijing Temple of Heaven
 Chang An Grand Hotel Beijing
-French Quarter Suites Hotel
-THE KNOT TOKYO Shinjuku
-Bravo Beach Hotel
-The Luxe Manor
 Jianguo Garden Hotel
-Royal Plaza Hotel
+THE KNOT TOKYO Shinjuku
+French Quarter Suites Hotel
+Bravo Beach Hotel
 Hotel Accademia
+The Luxe Manor
 Hotel Monte Carlo
-NH Amsterdam Museum Quarter
 Comfort Inn Tokyo Roppongi
-Hotel Montreal
-Hotel des Arts
-Dorsett Wanchai
+NH Amsterdam Museum Quarter
 Bahia Principe Grand Bavaro
+Hotel des Arts
+Hotel Montreal
 Ca' Maria Adele
-Sercotel Amister Art Hotel
-The College Hotel
 H10 Universitat
+The College Hotel
+Dorsett Wanchai
+Sercotel Amister Art Hotel
 Coral By The Sea Hotel
 Hotel Zenit Borrell
+Park Pointe Hotel
+Casa Fuster Hotel
+Meriton Suites World Tower, Sydney
 Vienna Townhouse Berlin
-"Meriton Suites World Tower, Sydney"
+Drake Hotel Toronto
 The Soho Hotel
 Hotel SB Icaria Barcelona
-Casa Fuster Hotel
-Drake Hotel Toronto
+Iberostar Las Letras Gran Via
 The Eliza Jane
 Novotel Suites Berlin City Potsdamer Platz Hotel
 Perak Hotel
-NusaBay Menjangan by WHM
 San Juan Airport Hotel
-Park Hyatt Tokyo
-Misc Eatdrinksleep
-Park Pointe Hotel
-Fifty Hotel & Suites by Affinia
-Hotel Mayflower
-Iberostar Las Letras Gran Via
+NusaBay Menjangan by WHM
 AC Hotel Barcelona Forum by Marriott
+Misc Eatdrinksleep
+Hotel Mayflower
+1831 Boutique Hotel
+Novotel Berlin Am Tiergarten
+Fifty Hotel & Suites by Affinia
 Mercure Tokyo Ginza
 Hotel Constanza Barcelona
-Grand Hyatt Bali
-Barcelona Princess
-Holiday Inn Express Frankfurt-Messe
-"Hotel Vitale, a Joie de Vivre hotel"
-Venice On The Beach Hotel
-B-Hotel
-"COMO Uma Ubud, Bali"
 Lloyd Hotel
+Barcelona Princess
+Seattle Hotelsand Places to Stay
 Hotel 1898
+COMO Uma Ubud, Bali
+Hotel Vitale, a Joie de Vivre hotel
+B-Hotel
+Venice On The Beach Hotel
 Dreams Punta Cana Resort & Spa
-The Gates Diagonal Barcelona
-"Tanah Gajah, a Resort by Hadiprana"
-Dutch Design Hotel Artemis
-Hotel Monteray Ginza
-Hotel Enza
-Hotel Johann
+Seattle Hotelsand Places to Stay
+Seattle Hotelsand Places to Stay
 Hotel Ca' Dogaressa
+Room Mate Grace
+The Gates Diagonal Barcelona
+Tanah Gajah, a Resort by Hadiprana
+Pentahotel Beijing
+Hotel Monteray Ginza
+Dutch Design Hotel Artemis
+Hotel Johann
+Hotel Enza
 Hotel Gabriel Paris
 Hotel Barcelona Condal Mar By Melia
 Miami Airport Marriott
-1831 Boutique Hotel
-Room Mate Grace
 Ocean Blue & Sand
-Waikiki Resort Hotel
 The Payogan Villa Resort & Spa
 The Royal Beach Seminyak Bali - MGallery
-Fleming's Hotel Frankfurt-Messe
-Casa Camper Hotel Barcelona
+Waikiki Resort Hotel
 The Vieques Guesthouse
 SERHS Del Port Hotel
+Casa Camper Hotel Barcelona
+Fleming's Hotel Frankfurt-Messe
+Seattle Hotelsand Places to Stay
 Residence Inn by Marriott Toronto Airport
+Four Seasons Hotel Hong Kong
 Hotel du Petit Moulin
 Hotel 140
+Eurostars Monumental
 Redwall Hotel Beijing
 Tegal Sari
-Eurostars Monumental
-Courtyard by Marriott Berlin City Center
-Four Seasons Hotel Hong Kong
-Hotel Donatello
-Courtyard Boston-South Boston
+Seattle Hotelsand Places to Stay
 New Orleans Marriott Warehouse Arts District
+Courtyard Boston-South Boston
+Courtyard by Marriott Berlin City Center
 Cendana Resort and Spa
-Ramada by Wyndham SeaTac Airport North
+Hotel Donatello
+Radisson Blu Hotel, Frankfurt
 Novum Hotel Lichtburg am Kurfuerstendamm
+Ramada by Wyndham SeaTac Airport North
 Kew Green Hotel Wanchai Hong Kong
 Hotel Al Ponte Mocenigo
 Hilton Diagonal Mar Barcelona
-"Radisson Blu Hotel, Frankfurt"
 Harbour Ville Hotel
-Pentahotel Beijing
 Lux 11
-VIK Hotel Cayena Beach
-Radisson Hotel Phoenix Airport
-Villa Tropical Oceanfront Apartments on Shacks Beach
-Holiday Inn Express Berlin City Centre
 Aqua Palms Waikiki
-Ca' dei Dogi
-Apex City of London Hotel
-Residence Hilda
-One King West Hotel & Residence
-Holiday Inn Beijing Temple of Heaven
-"The Landmark Mandarin Oriental, Hong Kong"
-Residence Corte Grimani
-Ibis Styles Amsterdam Central Station
+VIK Hotel Cayena Beach
+Holiday Inn Express Berlin City Centre
+Radisson Hotel Phoenix Airport
+Radisson Blu Hotel, Paris-Boulogne
+Villa Tropical Oceanfront Apartments on Shacks Beach
 Hilton Florence Metropole
-Residence Inn New York Manhattan/Times Square
-The St. Regis San Francisco
-Bali Garden Beach Resort
-"Radisson Blu Hotel, Paris-Boulogne"
-ibis Styles Bali Legian
+Seattle Hotelsand Places to Stay
+Ca' dei Dogi
+Residence Hilda
+Apex City of London Hotel
 Meriton Suites Waterloo
+Best Western Plus Hotel Hong Kong
+One King West Hotel & Residence
+Seattle Hotelsand Places to Stay
+The St. Regis San Francisco
+Ibis Styles Amsterdam Central Station
+The Landmark Mandarin Oriental, Hong Kong
+Residence Corte Grimani
+Bali Garden Beach Resort
+Residence Inn New York Manhattan/Times Square
+Seattle Hotelsand Places to Stay
+ibis Styles Bali Legian
 Majestic Colonial Punta Cana
 The Prince Park Tower Tokyo
-Best Western Plus Hotel Hong Kong
+South East Asia Hotel
+Iberostar Punta Cana
+Melasti Legian Beach Resort & Spa
 The Peninsula Tokyo
+Residence Michelangiolo
+Seattle Hotelsand Places to Stay
 Shatan Hotel
 Sunotel Junior
-South East Asia Hotel
+Seattle Hotelsand Places to Stay
 Silver Cloud Hotel - Seattle Stadium
-Iberostar Punta Cana
-Residence Michelangiolo
 Hotel Victoria 4
-Melasti Legian Beach Resort & Spa
+Dorint Kurfurstendamm Berlin
 Villa Kennedy
-Paradisus Palma Real Golf & Spa Resort
 Gladstone Hotel
+Hotel Royal at Queens
+Paradisus Palma Real Golf & Spa Resort
+Le Meridien Mexico City
 Hanging Gardens of Bali
 Hotel Villa Modigliani
-Dorint Kurfurstendamm Berlin
-Le Meridien Mexico City
 Disney's Hollywood Hotel
-Hotel Royal at Queens
 Grand Hotel Central
+Ocean Blue & Sand
 Keong Saik Hotel
 Hotel Granados 83
-Hilton London Canary Wharf
+Mandarin Oriental, Tokyo
 Hyatt Regency Dfw
-"Mandarin Oriental, Tokyo"
-Ocean Blue & Sand
-Vincci Soho
+Hilton London Canary Wharf
 Eden Rembrandt Square Hotel Amsterdam
-Febri's Hotel & Spa
-Uma Sapna
-Alam Shanti
 Le Sivory Punta Cana By PortBlue Boutique
+Seattle Hotelsand Places to Stay
+Alam Shanti
+Vincci Soho
 Ellie's
-BCN Urbaness Hotels Gran Ronda
+Febri's Hotel & Spa
 Melia Berlin
+Seattle Hotelsand Places to Stay
+Lanson Place Hotel
+Uma Sapna
+BCN Urbaness Hotels Gran Ronda
 Bcn Urbaness Hotels Del Comte
 Peninsula Excelsior Hotel
 Grand Prince Hotel Takanawa
+The Elysian
 The Westin Boston Waterfront
-Hotel Renew
+COMO Shambhala Estate, Bali
 Park Plaza Wangfujing
 Park Plaza Wallstreet Berlin Mitte
 Villa Puri Ayu
-"COMO Shambhala Estate, Bali"
+Hotel Barcelona Center
+Hotel Renew
+L'hotel Causeway Bay Harbour View
 Novotel Paris Centre Gare Montparnasse
-W Dallas - Victory
 Hotel Oceania Paris Porte de Versailles
 Catalonia Las Cortes
-L'hotel Causeway Bay Harbour View
-"Park Plaza Vondelpark, Amsterdam"
-The Elysian
+W Dallas - Victory
+Park Plaza Vondelpark, Amsterdam
+Courtyard San Juan Miramar
 Cosmo Hotel Hong Kong
-Hotel Sagrada Familia
-Hotel Ciutat de Barcelona
 Belmont Hotel
-Novotel Berlin Am Tiergarten
-Bulgari Resort Bali
-Schoenhouse Apartments
+Hotel Sagrada Familia
+Travelodge Barcelona Fira
+Hotel Ciutat de Barcelona
 Hotel de Rome
+Bulgari Resort Bali
+Movenpick Hotel Amsterdam City Centre
 Blue Moon Hotel
+Schoenhouse Apartments
+The Highland Dallas, Curio Collection by Hilton
 The Times Hotel
 Lan Kwai Fong Hotel @ Kau U Fong
-"The Highland Dallas, Curio Collection by Hilton"
-Travelodge Barcelona Fira
 The Samaya Bali Seminyak
+Novotel Citygate Hong Kong
+The Ritz-Carlton Beijing, Financial Street
 Select Hotel Berlin Checkpoint Charlie
 Ilunion Auditori
-Novotel Citygate Hong Kong
 Cosmopolitan Concept Hotel
 Hotel Room Mate Alicia
+ibis budget Singapore Selegie
 Hotel Villa Fontaine Grand Tokyo-Shiodome
 Pestana Arena Barcelona
-"The Ritz-Carlton Beijing, Financial Street"
+Hotel Barcelona Catedral
 The Ubud Village Resort & Spa
 Relais Piazza Signoria
 Hotel Riu Palace Punta Cana
-Hotel Barcelona Catedral
-Freeland Hotel
-Hotel Barcelona Center
-Catalonia Royal Bavaro
-"Loews Hotel 1000, Seattle"
-Hotel Mela
-WestCord Art Hotel Amsterdam
-Petit Palace Boqueria Garden
 Tortuga Bay Hotel
-Movenpick Hotel Amsterdam City Centre
-Hotel a La Commedia
+Catalonia Royal Bavaro
+Freeland Hotel
+Hotel Mela
+Loews Hotel 1000, Seattle
+Petit Palace Boqueria Garden
+WestCord Art Hotel Amsterdam
 Hilton London Tower Bridge
-H10 Casanova
-Blu-Zea Resort by Double-Six
+Pan Pacific Seattle
+Hotel a La Commedia
 Pullman Barcelona Skipper
-ibis budget Singapore Selegie
-Hotel City Garden Amsterdam
+H10 Casanova
 Kuta Lagoon Resort & Pool Villa
+Blu-Zea Resort by Double-Six
+Embassy Suites By Hilton - Waikiki Beach Walk
 The Westin Beijing Financial Street
+Hotel City Garden Amsterdam
 The Sumner Hotel
 Orchard Garden Hotel
 Grand Hotel Amrath Amsterdam
+Hotel Soho Barcelona
+Seattle Hotelsand Places to Stay
+Room Mate Mario
+Seattle Hotelsand Places to Stay
 InterContinental Boston
 chic&basic Born Boutique Hotel
-Catalonia Ramblas
-"The Hoxton, Shoreditch"
-Embassy Suites By Hilton - Waikiki Beach Walk
-Hotel Soho Barcelona
-Hotel Villa Emilia
+The Hoxton, Shoreditch
 Room Mate Laura
-Fraser Suites Sydney
-Komaneka at Tanggayuda
-Leonardo Hotel Amsterdam City Center
-Room Mate Mario
+Catalonia Ramblas
+Hotel Villa Emilia
 Bebek Tepi Sawah Villas & Spa
-Le Placide
+Seattle Hotelsand Places to Stay
+Fraser Suites Sydney
+Leonardo Hotel Amsterdam City Center
+Komaneka at Tanggayuda
 Hotel Monterey Hanzomon
+Le Placide
+ME BY MELIA MADRID Reina Victoria
 Conrad New York Midtown
 Hyatt Regency Barcelona Tower
 Beijing Hotel NUO
 Stayto
 Balivillas.com Estate
 Hotel Banys Orientals
-"The Ritz-Carlton, Tokyo"
-Petit Palace Museum Hotel
-Occidental Caribe
-Qbic Hotel Amsterdam WTC
+Seattle Hotelsand Places to Stay
 ICON BCN by Petit Palace
-Bhavana Private Villas
-InterContinental Los Angeles Century City
-Regent Beijing
+Petit Palace Museum Hotel
 Hilton Garden Inn Florence Novoli
+The Ritz-Carlton, Tokyo
+Occidental Caribe
+Regent Beijing
+Bhavana Private Villas
+Qbic Hotel Amsterdam WTC
+InterContinental Los Angeles Century City
+Hotel Berlin, Berlin
+Hilton New Orleans St. Charles Avenue
+Seattle Hotelsand Places to Stay
 Room Mate Carla
 Ayre Hotel Gran Via
 Market Hotel
-Hilton New Orleans St. Charles Avenue
-ME BY MELIA MADRID Reina Victoria
-Hotel Des Academies Et Des Arts
 Residence Inn Toronto Downtown/Entertainment District
-L'hotel Nina et Convention Centre
 Royalton Splash Punta Cana
+Hotel Des Academies Et Des Arts
+L'hotel Nina et Convention Centre
+Zoetry Agua Punta Cana
 Novotel Bali Nusa Dua Hotel & Residences
 Grand Mercure Beijing Central
-Beijing Sihe Courtyard Hotel
-DoubleTree by Hilton Dallas Market Center
-Zoetry Agua Punta Cana
+Seattle Hotelsand Places to Stay
 Best Western Hotel Berlin-Mitte
-The Park Central San Francisco
 XO Hotels Blue Tower
+DoubleTree by Hilton Dallas Market Center
+Beijing Sihe Courtyard Hotel
+The Park Central San Francisco
+Park Plaza Amsterdam Airport
 Larmont Sydney by Lancemore
 Old No. 77 Hotel & Chandlery
+The Ritz-Carlton, Dallas
 Catalonia Avinyo
 Hotel Maxim Axial
 FuramaXclusive Resort & Villas Ubud
-Lanson Place Hotel
-Park Plaza Amsterdam Airport
+Leonardo Boutique Museumhotel Amsterdam City Center
 Motel One Berlin-Hackescher Markt
+Seattle Hotelsand Places to Stay
 Disini Luxury Spa Villas
+Club Med Bali
 Hotel Silla
 Days Inn Forbidden City Beijing
-Pan Pacific Seattle
 Leisure Inn Sydney Central
-Sandman Signature Toronto Airport Hotel
 The High Line Hotel
-Club Med Bali
-InterContinental San Francisco
 Room Mate Oscar
-The Loyal Inn
-"Desa Seni, A Village Resort"
-La Concha Renaissance San Juan Resort
+Sandman Signature Toronto Airport Hotel
+InterContinental San Francisco
+Link Hotel Singapore
+Desa Seni, A Village Resort
 The Arctic Club Seattle - a DoubleTree by Hilton Hotel
-Best Western Plus Pioneer Square Hotel Downtown
-Courtyard San Juan Miramar
+La Concha Renaissance San Juan Resort
 The St. Regis Singapore
+Best Western Plus Pioneer Square Hotel Downtown
+The Loyal Inn
 Executive Inn by the Space Needle
-Hotel Hermes
-Four Points By Sheraton Phoenix South Mountain
-Holiday Inn & Suites Phoenix Airport North
-Saren Indah Hotel
 Hotel Ciutat Vella
+Hotel Hermes
+Seattle Hotelsand Places to Stay
+Saren Indah Hotel
+Seattle Hotelsand Places to Stay
+Four Points By Sheraton Phoenix South Mountain
 Best Western InnSuites Phoenix Hotel & Suites
-Beijing Zhong An Hotel
-Leonardo Boutique Museumhotel Amsterdam City Center
 Renaissance Phoenix Downtown Hotel
+Holiday Inn & Suites Phoenix Airport North
+Seattle Hotelsand Places to Stay
 Hilton Phoenix Airport
-Royal Palms Resort and Spa
-Drury Inn & Suites Phoenix Airport
-Sheraton Phoenix Crescent
-Hilton Phoenix Resort at the Peak
 Hyatt Regency Phoenix
+Beijing Zhong An Hotel
+Drury Inn & Suites Phoenix Airport
+Royal Palms Resort and Spa
+Sheraton Phoenix Crescent
 Sleep Inn Phoenix Sky Harbor Airport
+Hilton Phoenix Resort at the Peak
+Seattle Hotelsand Places to Stay
+Seattle Hotelsand Places to Stay
+Country Inn & Suites by Radisson, Phoenix Airport, AZ
 Legacy Golf Resort
+Hyatt Place Phoenix - North
+Holiday Inn Express Phoenix Airport (University Drive)
 Anantara Seminyak Bali Resort
 Beverly Hills Marriott
 Sofitel Los Angeles at Beverly Hills
-Holiday Inn Express Phoenix Airport (University Drive)
+Seattle Hotelsand Places to Stay
 Hotel Royal
-Hotel Boston
 Hilton Garden Inn Los Angeles Hollywood
 Hollywood Orchid Suites
-Kimpton Hotel Palomar Los Angeles Beverly Hills
-W Los Angeles - West Beverly Hills
-The Inn At Longwood Medical
-"Country Inn & Suites by Radisson, Phoenix Airport, AZ"
 The Hollywood Roosevelt
+Hotel Boston
+The Inn At Longwood Medical
+W Los Angeles - West Beverly Hills
+DoubleTree by Hilton Hotel Los Angeles Downtown
+Kimpton Hotel Palomar Los Angeles Beverly Hills
 Courtyard Hong Kong
+Omni Los Angeles at California Plaza
 Luxe Sunset Boulevard Hotel
 Millennium Biltmore Los Angeles
-Renaissance Los Angeles Airport Hotel
 Embassy Suites by Hilton LAX North
+Renaissance Los Angeles Airport Hotel
 Sheraton Gateway Los Angeles Hotel
-DoubleTree by Hilton Hotel Los Angeles Downtown
+Seattle Hotelsand Places to Stay
 The Garland
-Hotel Kapok Beijing
-Best Western The Plaza Hotel
-Holiday Inn Port of Miami Downtown
-Hilton Los Angeles/Universal City
-Stanford Court San Francisco
-Best Western Plus Hospitality House
-Adante Hotel
-Hyatt Place Phoenix - North
-The Herbert Hotel
 Sportsmen's Lodge Hotel
+Hilton Los Angeles/Universal City
+Hotel Kapok Beijing
+Seattle Hotelsand Places to Stay
+Best Western The Plaza Hotel
+Seattle Hotelsand Places to Stay
+Best Western Plus Hospitality House
+Holiday Inn Port of Miami Downtown
 Bahia Principe Luxury Ambar
+Stanford Court San Francisco
+Adante Hotel
+The Herbert Hotel
 Hotel Stratford
 Hotel Zoe Fisherman's Wharf
-"Hotel Berlin, Berlin"
-"The Ritz-Carlton, Dallas"
+Seattle Hotelsand Places to Stay
+King George Hotel - A Greystone Hotel
 The Monarch Hotel
-San Francisco Proper Hotel
 Hotel Nikko San Francisco
+Hotel Zelos San Francisco
+San Francisco Proper Hotel
 Hotel Spero
 Beresford Arms
-Civic Center Motor Inn
-Carriage Inn
 Hotel Beresford
-Kimpton Buchanan
+Carriage Inn
+Civic Center Motor Inn
 Hilton San Francisco Airport Bayfront
-Cornell Hotel de France
+Kimpton Buchanan
+Hotel Bijou
 Hotel Carlton
 Comfort Inn by the Bay
+Cornell Hotel de France
 Hotel Drisco Pacific Heights
-Hotel Bijou
 Presidio Parkway Inn & Suites
 Galleria Park Hotel
-Grant Plaza Hotel
-Hilton San Francisco Financial District
 Grand Hyatt San Francisco Union Square
-Holiday Inn San Francisco - Golden Gateway
-Holiday Inn San Francisco-Fishermans Wharf
-BEI Hotel San Francisco
+Grant Plaza Hotel
 Handlery Union Square Hotel
-Hyatt Centric Fisherman's Wharf San Francisco
-Link Hotel Singapore
 Harbor Court Hotel
-"Laurel Inn, a Joie de Vivre hotel"
-Four Seasons Hotel San Francisco at Embarcadero
-Hyatt Regency San Francisco
-San Francisco Marriott Fisherman's Wharf
+BEI Hotel San Francisco
+Hilton San Francisco Financial District
+Holiday Inn San Francisco-Fishermans Wharf
+Holiday Inn San Francisco - Golden Gateway
 Courtyard San Francisco Fisherman's Wharf
+Hyatt Centric Fisherman's Wharf San Francisco
+Hyatt Regency San Francisco
+Taj Campton Place
+Laurel Inn, a Joie de Vivre hotel
+Four Seasons Hotel San Francisco at Embarcadero
+San Francisco Marriott Fisherman's Wharf
+Hotel Abri
 The Mosser
+Hotel Erwin
 Nob Hill Motor Inn
 Parc 55 San Francisco - a Hilton Hotel
 Le Meridien San Francisco
 Phoenix Hotel SF
 Hotel Zeppelin San Francisco
-Taj Campton Place
-"Marriott Vacation Club Pulse, San Francisco"
-Hotel Abri
-Hotel Erwin
-City Center Inn & Suites - San Francisco
+Marriott Vacation Club Pulse, San Francisco
 Hotel Whitcomb
-San Francisco Marriott Marquis
-The Opal San Francisco
+City Center Inn & Suites - San Francisco
 Redwood Inn
-"Staypineapple, An Elegant Hotel, Union Square"
+The Opal San Francisco
+San Francisco Marriott Marquis
+Staypineapple, An Elegant Hotel, Union Square
+JW Marriott Hotel Beijing
+Seal Rock Inn
 Hotel Riu Plaza Fisherman’s Wharf
 Kimpton Sir Francis Drake Hotel
-Seal Rock Inn
-Hotel Majestic
-The Inn at Union Square - A Greystone Hotel
-JW Marriott San Francisco Union Square
-"The Ritz-Carlton, San Francisco"
-JW Marriott Hotel Beijing
-Fairmont San Francisco
-The Westin St. Francis San Francisco on Union Square
-Warwick San Francisco
-The Wharf Inn
-Travelodge by Wyndham San Francisco Central
 The Donatello
+Fairmont San Francisco
+The Inn at Union Square - A Greystone Hotel
+Hotel Majestic
+Seattle Hotelsand Places to Stay
+JW Marriott San Francisco Union Square
+The Ritz-Carlton, San Francisco
+Warwick San Francisco
+The Westin St. Francis San Francisco on Union Square
+The Wharf Inn
+Greenwich Inn
+Travelodge by Wyndham San Francisco Central
 Travel Inn
 Travelodge by Wyndham Presidio San Francisco
 Hotel Triton
 Hotel Union Square
+Seattle Hotelsand Places to Stay
+Villa Florence
 Executive Hotel Vintage Court San Francisco
-W San Francisco
-Edwardian Hotel
-Vagabond Inn San Pedro
-Crowne Plaza Los Angeles Harbor Hotel
-Omni Los Angeles at California Plaza
 Travelodge by Wyndham San Francisco Airport North
+W San Francisco
+Crowne Plaza Los Angeles Harbor Hotel
+Vagabond Inn San Pedro
+Edwardian Hotel
+Hotel Vertigo
+Seattle Hotelsand Places to Stay
 SF Plaza Hotel
 The Marker San Francisco
+Howard Johnson by Wyndham San Francisco Marina District
 La Luna Inn
-Greenwich Inn
-Hotel Vertigo
 Marina Motel
+Beverly Laurel Motor Hotel
 Embassy Suites by Hilton Washington D.C. Georgetown
 Howard Johnson Hotel & Suites by Wyndham Reseda
-Hotel Angeleno
-Beverly Laurel Motor Hotel
 Mr. C Beverly Hills
 Magic Castle Hotel
-Howard Johnson by Wyndham San Francisco Marina District
-Rodeway Inn Miami Airport
+Hotel Angeleno
 The Orlando Hotel
 Palmeiras Beach Club at Grove Isle
-Hyatt Regency Miami
+Rodeway Inn Miami Airport
 Red Roof Plus+ Miami Airport
+Days Inn by Wyndham Miami International Airport
+Hyatt Regency Miami
 InterContinental Miami
-Collins Hotel
-Newport Beachside Hotel and Resort
+Miami Marriott Biscayne Bay
 Doubletree by Hilton Grand Hotel Biscayne Bay
+Newport Beachside Hotel and Resort
+Collins Hotel
 Regency Miami Airport
 Embassy Suites Miami International Airport
+Hilton Miami Airport Blue Lagoon
 Sheraton Miami Airport Hotel & Executive Meeting Center
 PULLMAN Miami Airport hotel
-Ala Moana Honolulu by Mantra
-Hilton Miami Airport Blue Lagoon
-Aqua Aloha Surf Waikiki
 Kaimana Beach Hotel
-"The Laylow, Autograph Collection"
-ESPACIO The Jewel of Waikiki
-King George Hotel - A Greystone Hotel
+Ala Moana Honolulu by Mantra
+Aqua Aloha Surf Waikiki
 Coconut Waikiki Hotel
+The Laylow, Autograph Collection
+Pearl Hotel Waikiki
+Pacific Monarch Hotel
 Aston Waikiki Beach Hotel
+ESPACIO The Jewel of Waikiki
 Aston Waikiki Circle Hotel
 The Equus
-Waikiki Monarch Hotel
-Pearl Hotel Waikiki
-Hotel Zelos San Francisco
 Prince Waikiki
+Waikiki Monarch Hotel
 Hilton Hawaiian Village Waikiki Beach Resort
-Ramada Plaza by Wyndham Waikiki
 Airport Honolulu Hotel
+Ramada Plaza by Wyndham Waikiki
 Ilima Hotel
+Aqua Bamboo Waikiki
+Hyatt Place Waikiki Beach
 OHANA Waikiki East Hotel
 Outrigger Reef Waikiki Beach Resort
-Pacific Monarch Hotel
-Hyatt Place Waikiki Beach
-Aqua Bamboo Waikiki
-La Quinta Inn by Wyndham Miami Airport North
 Holiday Inn Express Miami Airport Doral Area
+La Quinta Inn by Wyndham Miami Airport North
 Miami International Airport Hotel
-Villa Florence
+Hilton Garden Inn Waikiki Beach
 Pacific Marina Inn
 Queen Kapiolani Hotel
-"Moana Surfrider, A Westin Resort & Spa, Waikiki Beach"
-Sheraton Waikiki
+Royal Grove Waikiki
 Courtyard Miami Downtown Brickell Area
+Moana Surfrider, A Westin Resort & Spa, Waikiki Beach
 Sheraton Princess Kaiulani
-Hilton Garden Inn Waikiki Beach
+Sheraton Waikiki
+'Alohilani Resort Waikiki Beach
+Sonesta Miami Airport
 Hotel LaCroix
 Waikiki Central Hotel
-Sonesta Miami Airport
-Hotel St. Pierre
-Royal Grove Waikiki
 Waikiki Sand Villa Hotel
-Miami Marriott Biscayne Bay
-La Galerie French Quarter Hotel
+Hotel St. Pierre
 Bienville House
-International House Hotel
-New Orleans Marriott
-Maison Dupuy
-New Orleans Courtyard Hotel
-Omni Royal Orleans
-Le Pavillon Hotel
-Hyatt Centric French Quarter New Orleans
-Hotel Provincial
-French Market Inn
 Bourbon Orleans Hotel
-Sheraton New Orleans Hotel
-"Q&C HotelBar New Orleans, Autograph Collection"
-The Pelham Hotel
+La Galerie French Quarter Hotel
+Hyatt Centric French Quarter New Orleans
+New Orleans Courtyard Hotel
+International House Hotel
+Le Pavillon Hotel
+Maison Dupuy
+New Orleans Marriott
+Omni Royal Orleans
+Hotel Provincial
 Prytania Park
+Sheraton New Orleans Hotel
+French Market Inn
+The Lafayette Hotel
+Hotel Monteleone
+Magnolia New Orleans
+The Pelham Hotel
+Q&C HotelBar New Orleans, Autograph Collection
 The Westin New Orleans
 Windsor Court Hotel
-"Staypineapple, A Delightful Hotel, South End Boston"
-The Lafayette Hotel
-Magnolia New Orleans
+Staypineapple, A Delightful Hotel, South End Boston
 Boston Harbor Hotel
 Four Seasons Hotel Boston
 Found Hotel Boston Common
 Revere Hotel Boston Common
-Hyatt Regency Boston Harbor
+Sheraton Boston Hotel
 Courtyard Boston Downtown
+Hyatt Regency Boston Harbor
+Dreams Royal Beach Punta Cana
 Halekulani Hotel
 DoubleTree by Hilton Alana - Waikiki Beach
-Dreams Royal Beach Punta Cana
-Hotel Mazarin
-Sheraton Boston Hotel
-Aqua Skyline at Island Colony
-Prince Conti Hotel
-Royal Sonesta New Orleans
-St Charles Coach House
 Lotus Honolulu at Diamond Head
+Aqua Skyline at Island Colony
+Hotel Mazarin
+Royal Sonesta New Orleans
+Prince Conti Hotel
+Hotel St. Marie
+St Charles Coach House
 St. James Hotel New Orleans Downtown (French Quarter Area)
-Hyatt Place New Orleans/Convention Center
 Holiday Inn Express New Orleans Downtown
 Hilton New Orleans Riverside
+Hyatt Place New Orleans/Convention Center
+Seattle Hotelsand Places to Stay
 Old No. 77 Hotel & Chandlery
-Hotel Elysee by Library Hotel Collection
+The Kimberly Hotel
 Hotel Beacon
-Hotel St. Marie
-Hampton Inn New Orleans - St Charles Ave / Garden District
+Hotel Elysee by Library Hotel Collection
+Seattle Hotelsand Places to Stay
 Hampton Inn Manhattan-Times Square North
+Hampton Inn New Orleans - St Charles Ave / Garden District
+Omni Riverfront Hotel
 Gardens Suites Hotel by Affinia
-New York Marriott Marquis
 New York Marriott Downtown
+New York Marriott Marquis
+Renaissance New York Times Square Hotel
 Belvedere Hotel
 Michelangelo Hotel
-Omni Riverfront Hotel
+The Westin New York Grand Central
+Seattle Hotelsand Places to Stay
 Premier Inn Berlin City Centre hotel
-The Kimberly Hotel
 Hilton Boston Downtown Faneuil Hall
 Seaport Hotel
-"Marriott Vacation Club Pulse at Custom House, Boston"
-The Midtown Hotel
+Marriott Vacation Club Pulse at Custom House, Boston
 Hotel Indigo Boston Garden
+The Midtown Hotel
+Bahia Principe Grand Turquesa
 Club Quarters Hotel in Boston
 Best Western Hotel City Ost
 The Ivy Hotel at Condado
-Bahia Principe Grand Turquesa
 Hotel V Frederiksplein
-Sheraton Dallas Hotel by the Galleria
-Hilton Dallas Lincoln Centre
-DoubleTree by Hilton Hotel Dallas - Campbell Centre
-Hotel Crescent Court
 Fairmont Dallas
+Hotel Crescent Court
+Sheraton Dallas Hotel by the Galleria
+DoubleTree by Hilton Hotel Dallas - Campbell Centre
+Hilton Dallas Lincoln Centre
+Embassy Suites by Hilton Dallas Park Central Area
 Wyndham Garden Dallas North
-The Beeman Hotel
-Hotel Monteleone
 Hyatt Regency Dallas
-Days Inn by Wyndham Miami International Airport
+The Beeman Hotel
+Seattle Hotelsand Places to Stay
 Renaissance Dallas Hotel
 The Westin Dallas Park Central
-'Alohilani Resort Waikiki Beach
+Sheraton Suites Market Center Dallas
+Rosewood Mansion on Turtle Creek
 Warwick Melrose - Dallas
+The Westin Galleria Dallas
 Hilton Anatole
 Courtyard New York Manhattan/Times Square
-Embassy Suites by Hilton Dallas Park Central Area
-New York Marriott at the Brooklyn Bridge
 Courtyard New York Manhattan/Midtown East
-Sheraton Suites Market Center Dallas
-Hotel Giraffe by Library Hotel Collection
-Rosewood Mansion on Turtle Creek
 Kixby
-The Westin Galleria Dallas
-Renaissance New York Times Square Hotel
-The Westin New York Grand Central
+New York Marriott at the Brooklyn Bridge
+Hotel Giraffe by Library Hotel Collection
